@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Mouse Gamer RGB",
+        "preco": 120.5,
+        "estoque": 15
+    },
+    {
+        "id": 2,
+        "nome": "Teclado Mecanico Switch Blue",
+        "preco": 250,
+        "estoque": 8
+    },
+    {
+        "id": 3,
+        "nome": "Monitor 24 polegadas 144Hz",
+        "preco": 899.9,
+        "estoque": 5
+    }
+]
